@@ -1,0 +1,143 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    overflow: hidden;
+    width: 100%;
+}
+
+.container {
+    max-width: 1110px;
+    margin: 0 auto;
+}
+
+
+/* header start */
+
+.header {
+    margin-bottom: 15px;
+}
+
+.head-up {
+    width: 100%;
+    background-color: #F6F7FB;
+    padding: 11px 0px;
+}
+
+.head-up-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title-items {
+    width: 38%;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+
+.head-link {
+    text-decoration: none;
+}
+
+.head-items {
+    font-family: Muller;
+    line-height: 14px;
+    text-align: left;
+    color: #181818;
+}
+
+.navbar {
+    width: 75%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+}
+
+.logo {}
+
+.inp-head {
+    display: flex;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+.inp {
+    width: 665px;
+    height: 40px;
+    border-color: rgb(59, 226, 8);
+}
+
+.btn-inp {
+    width: 116px;
+    height: 40px;
+    top: 79px;
+    left: 858px;
+    gap: 0px;
+    border-radius: 0px 4px 4px 0px;
+    opacity: 0px;
+    border-color: rgb(59, 226, 8);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #000;
+    background-color: #f0f0f0;
+    text-decoration: none;
+    color: #000;
+}
+
+.btn-inp img {
+    margin-right: 10px;
+}
+
+.basketheart {
+    margin-right: 30px;
+}
+
+.heart {}
+
+.basket-img-heart {}
+
+.titleheart {}
+
+.basket {}
+
+.basket-basket {}
+
+.basket-img {}
+
+.basket-title {}
+
+.head-down {}
+
+.item-down {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.items-text {
+    list-style-type: none;
+}
+
+.item-link {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 16px;
+    text-align: left;
+    color: black;
+    text-decoration: none;
+}
+
+.call {
+    transform: translateX(35px);
+}
+
+
+/* header end */
