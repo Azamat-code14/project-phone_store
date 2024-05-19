@@ -119,3 +119,67 @@ html {
     height: 1000px;
     background-color: rgb(0, 0, 0);
 }
+
+
+.part-two {}
+
+.part-two_content {}
+
+.container {}
+
+.img-content-two {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 48px;
+}
+
+.img-content-two-t {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {}
+
+.part-three_content {}
+
+.projects-cards {
+    padding-top: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-one_project {
+    width: 390px;
+    background-color: rgba(34, 34, 34, 1);
+    border-radius: 19px;
+    box-shadow: 30px #cf0e0e0d;
+    margin-right: 40px;
+}
+
+.img-project {}
+
+.down {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-text {
+    padding: 23px;
+}
+
+.title-project {
+    color: rgba(197, 197, 197, 1);
+}
+
+.text-project {
+    color: white;
+}
+
+.link-project {}
+
+.git {
+    margin-right: 10px;
+}
